@@ -3,3 +3,5 @@
  the game.py contains source code and click the dist/game application to play directly. Best of Luck<br>
  [![Gameplay video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/9rXDkbCeopI)
 
+![Game menu](game1.jpg)
+![Gameplay](game2.jpg)
